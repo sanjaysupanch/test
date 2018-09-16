@@ -21,4 +21,6 @@ if (__name__=='__main__'):
     bubble_sort(lst)
     stop=time.clock()
     print("Time taken:",stop-start)
-    #print(lst)
+    print(lst)
+    print("man")
+    print('woman')
