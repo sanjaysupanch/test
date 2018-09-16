@@ -36,4 +36,6 @@ if (__name__=='__main__'):
     print("aman")
     print("aliya")
     print('rahul')
+    print('makichu')
+    print('mere bete')
                 
