@@ -23,4 +23,5 @@ if (__name__=='__main__'):
     print("Time taken:",stop-start)
     print(lst)
     print("man")
-    print('woman')
+    print("woman")
+    print("chotu")
