@@ -28,3 +28,4 @@ if (__name__=='__main__'):
     print('Do you know the smallest chotu of the college ?')
     print('the smallest chotu is Ravi Prakash')
     print('the smallest chotu from our batch is probably : Akshay')
+    print('checking the difference with the staged area')
