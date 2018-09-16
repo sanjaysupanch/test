@@ -38,4 +38,6 @@ if (__name__=='__main__'):
     print('rahul')
     print('makichu')
     print('mere bete')
+    print("hello to the smallest chotu of our college")
+    print('the smallest chotu of our college is ravi prakash')
                 
