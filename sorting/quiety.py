@@ -35,7 +35,7 @@ if (__name__=='__main__'):
     print(lst)
     print("aman")
     print("aliya")
-    print('rahul')
+    print('rahul chutiya hai')
     print('makichu')
     print('mere bete')
     print("hello to the smallest chotu of our college")
